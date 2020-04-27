@@ -3,7 +3,7 @@ ____
 ![alt text](https://miro.medium.com/max/22596/1*pOJtq5GK2r7687Nctk61kw.png "scraped news")
 ***
 # About
-This project is all about scraping news from various well known news providing websites, this project anticipates the virality of the news headlines. The (**_news-scrape.csv_**) is the dataset for the same and the total number of news are around 9000. The websites which are scraped are [InShorts](https://inshorts.com/), [BBC News](https://www.bbc.com/news), [ABC News](https://abcnews.go.com/), [Washington Post](https://www.washingtonpost.com/?noredirect=on), [Daily Mail](https://www.dailymail.co.uk/home/index.html), [Google News](https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en), [FOX News](https://www.foxnews.com/)
+This project is all about scraping news from various well known news providing websites, this project anticipates the virality of the news headlines. The (**_news-scrape.csv_**) is the dataset for the same and the total number of news are around 9000. The websites which is scraped are [InShorts](https://inshorts.com/), [BBC News](https://www.bbc.com/news), [ABC News](https://abcnews.go.com/), [Washington Post](https://www.washingtonpost.com/?noredirect=on), [Daily Mail](https://www.dailymail.co.uk/home/index.html), [Google News](https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en), [FOX News](https://www.foxnews.com/)
 
 ***
 

@@ -27,9 +27,9 @@ Install all the required python libraries.
 `pip install pandas`
 
 The code which has extension (_.py_) can be executed on directly but for the code which has extension (_.ipynb_) requires a virtual environment to run it (_Jupyter Notebook_) .
-
+***
 **Important:** It is not necessary that final length of the data will be same as above mentioned, it based upon number available content on the website
-
+***
 # Data Sample
 
 ![alt text](https://github.com/arpitv424/Scraped-News/blob/master/data_sample.jpg)

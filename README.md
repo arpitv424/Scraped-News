@@ -22,7 +22,7 @@ Install all the required python libraries.
 
 `pip install requests`
 
-***Pandas*** (To create the csv file)
+***Pandas*** (For handling of data)
 
 `pip install pandas`
 

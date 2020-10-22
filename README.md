@@ -22,7 +22,7 @@ Install all the required python libraries.
 
 `pip install requests`
 
-***Pandas*** (For handling of data)
+***Pandas*** (For reading the data)
 
 `pip install pandas`
 
